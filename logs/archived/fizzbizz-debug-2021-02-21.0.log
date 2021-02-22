@@ -1,0 +1,97 @@
+2021-02-21 21:30:29,282 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [restartedMain] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 21:30:29,342 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [restartedMain] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 21:30:29,365 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [restartedMain] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 21:30:29,374 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [restartedMain] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 21:39:26,224 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@2766ca9d
+2021-02-21 21:39:27,616 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 21:39:27,737 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 21:39:27,826 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 21:39:27,856 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 21:39:33,130 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@2766ca9d, started on Sun Feb 21 21:39:26 CET 2021
+2021-02-21 22:17:36,133 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [restartedMain] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 22:17:36,226 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [restartedMain] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 22:17:36,261 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [restartedMain] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 22:17:36,275 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [restartedMain] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 22:17:42,576 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-02-21 22:17:42,577 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Detected StandardServletMultipartResolver
+2021-02-21 22:17:42,577 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Detected AcceptHeaderLocaleResolver
+2021-02-21 22:17:42,578 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Detected FixedThemeResolver
+2021-02-21 22:17:42,579 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@659dcaec
+2021-02-21 22:17:42,580 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Detected org.springframework.web.servlet.support.SessionFlashMapManager@1acadd03
+2021-02-21 22:17:42,580 DEBUG org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2021-02-21 22:17:42,581 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 4 ms
+2021-02-21 22:17:42,596 DEBUG org.springframework.core.log.LogFormatUtils [http-nio-8080-exec-1] GET "/fizzbuzz/90", parameters={}
+2021-02-21 22:17:42,605 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMapping [http-nio-8080-exec-1] Mapped to com.fizzbuzz.apirest.controllers.FizzBuzzController#fizzBuzz(int, HttpServletResponse)
+2021-02-21 22:17:45,288 DEBUG org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor [http-nio-8080-exec-1] Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [application/json]
+2021-02-21 22:17:45,289 DEBUG org.springframework.core.log.LogFormatUtils [http-nio-8080-exec-1] Writing ["{"fizzBuzz":[90,105,120,135,150,165,180,195],"buzz":[95,100,110,115,125,130,140,145,155,160,170,175 (truncated)...]
+2021-02-21 22:17:45,317 DEBUG org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed 200 OK
+2021-02-21 22:28:12,667 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [restartedMain] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 22:28:12,764 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [restartedMain] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 22:28:12,799 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [restartedMain] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 22:28:12,815 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [restartedMain] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 22:28:51,289 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1921ad94
+2021-02-21 22:28:53,309 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 22:28:53,488 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 22:28:53,635 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 22:28:53,671 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 22:28:54,810 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@1921ad94, started on Sun Feb 21 22:28:51 CET 2021
+2021-02-21 22:30:33,601 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6dab9b6d
+2021-02-21 22:30:35,812 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 22:30:35,996 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 22:30:36,130 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 22:30:36,163 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 22:30:36,956 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@6dab9b6d, started on Sun Feb 21 22:30:33 CET 2021
+2021-02-21 22:31:52,882 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@21fd5faa
+2021-02-21 22:31:54,768 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 22:31:54,950 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 22:31:55,071 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 22:31:55,104 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 22:31:55,976 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@21fd5faa, started on Sun Feb 21 22:31:52 CET 2021
+2021-02-21 22:52:17,581 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@2766ca9d
+2021-02-21 22:52:19,567 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 22:52:19,744 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 22:52:19,879 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 22:52:19,918 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 22:52:20,791 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@2766ca9d, started on Sun Feb 21 22:52:17 CET 2021
+2021-02-21 22:57:42,586 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5460cf3a
+2021-02-21 22:57:44,624 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 22:57:44,781 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 22:57:44,931 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 22:57:44,967 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 22:57:45,803 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@5460cf3a, started on Sun Feb 21 22:57:42 CET 2021
+2021-02-21 23:24:29,562 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@65a15628
+2021-02-21 23:24:31,527 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 23:24:31,731 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 23:24:31,865 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 23:24:31,897 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 23:24:32,738 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@65a15628, started on Sun Feb 21 23:24:29 CET 2021
+2021-02-21 23:31:45,203 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6d025197
+2021-02-21 23:31:47,055 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 23:31:47,204 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 23:31:47,330 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 23:31:47,363 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 23:31:48,258 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@6d025197, started on Sun Feb 21 23:31:45 CET 2021
+2021-02-21 23:32:53,743 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3fc9504b
+2021-02-21 23:32:55,696 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 23:32:55,903 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 23:32:56,022 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 23:32:56,067 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 23:32:56,959 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@3fc9504b, started on Sun Feb 21 23:32:53 CET 2021
+2021-02-21 23:33:37,349 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6d025197
+2021-02-21 23:33:39,310 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 23:33:39,491 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 23:33:39,608 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 23:33:39,641 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 23:33:40,509 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@6d025197, started on Sun Feb 21 23:33:37 CET 2021
+2021-02-21 23:34:53,841 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3fc9504b
+2021-02-21 23:34:55,793 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 23:34:55,983 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 23:34:56,126 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 23:34:56,171 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 23:34:57,175 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@3fc9504b, started on Sun Feb 21 23:34:53 CET 2021
+2021-02-21 23:48:09,969 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3fc9504b
+2021-02-21 23:48:12,056 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-02-21 23:48:12,256 DEBUG org.springframework.web.servlet.handler.AbstractHandlerMethodMapping [main] 3 mappings in 'requestMappingHandlerMapping'
+2021-02-21 23:48:12,406 DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-02-21 23:48:12,443 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-02-21 23:48:13,481 DEBUG org.springframework.context.support.AbstractApplicationContext [SpringContextShutdownHook] Closing org.springframework.web.context.support.GenericWebApplicationContext@3fc9504b, started on Sun Feb 21 23:48:09 CET 2021
